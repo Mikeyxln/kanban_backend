@@ -1,7 +1,7 @@
 # kanban-backend
 
 Backend **terminado** del Tablero Kanban · Java 21 · Spring Boot 3.5 · PostgreSQL 18
-IPSS · Desarrollo de Software II · Clase 03
+IPSS · Desarrollo de Software II 
 
 API REST con arquitectura **MVC en capas**, en Java puro (**sin Lombok**), que gestiona tareas en tres columnas:
 **Por hacer → En curso → Hecha**. Es la referencia para comparar con lo que construyes desde
